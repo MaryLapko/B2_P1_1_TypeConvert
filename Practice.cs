@@ -8,7 +8,10 @@ namespace ConsoleApp7
         /// B2-P1/1. TypeConvert. Преобразование типов используя явное, неявное преобразование и класс Convert.
         /// </summary>
         public static void B2_P1_1_TypeConvert()
+           
         {
+            //B2_P1_1_TypeConvert Mary Lapko 
+
             string name = "Olga";
             string hasPhoto = "True";
             string flatNumber = "34";
