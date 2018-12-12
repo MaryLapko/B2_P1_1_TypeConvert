@@ -47,7 +47,7 @@ namespace ConsoleApp7
             //1.4 CHAR to INT
             int placeCharToInt = place; //IMPLICIT: COMPILING
             int placeChartoInt2 = (int)place; //EXPLICIT: COMPILING
-            int placeChartoInt3 = Convert.ToInt32(place);
+            int placeChartoInt3 = Convert.ToInt32(place);//CONVERT: "3"
 
             //2. STRING CONVERSION
 
